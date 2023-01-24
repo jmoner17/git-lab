@@ -42,13 +42,13 @@
     Joshua Moner
    jmoner17
    no changes were made
-11. 
+11. username and password was requested and the files were rejected because the files on github did not match my local files
 12. Joshua Moner
     jmoner17
     CS 2400
     section 110 lab 109
     changes were made
-13. .  ..  git-lab-2  Labs
+13. .  .. .git .gitignore README.md
 14. 
 
 
